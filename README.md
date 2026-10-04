@@ -17,3 +17,5 @@ Push to `main`. The Pages workflow publishes only `site/`. Enable GitHub Pages w
 Canonical and social URLs assume `https://unmukto.org/`. The sitemap lists the homepage; the 404 page is excluded from indexing.
 
 The Obadh card uses the unmodified `typing-dark.png` release screenshot from the App Store assets, stored as `site/assets/obadh-iphone.png`. CSS frames the message field and complete keyboard, excluding the unused conversation area.
+
+The approved Unmukto calligraphic উ logo is stored in `site/assets/unmukto-logo.png`. The favicon, Apple touch icon, and social preview use the same artwork.
